@@ -1,0 +1,60 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{2}{x2-1000}{QQ2-2-1}{Editorial}}{2}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{2}{Q1-2-2}{}{Editorial}}{2}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{3}{x3-2000}{QQ2-3-3}{Palabras del presidente}}{7}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{3}{Q1-3-4}{}{Palabras del presidente}}{7}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{4}{x4-30001}{QQ2-4-5}{El Concurso de Modelizaci\'on Matem\'atica del IMI}}{13}\relax 
+\doTocEntry\tocsubsection{1.1}{\csname a:TocLink\endcsname{4}{x4-40001.1}{QQ2-4-6}{Datos generales del concurso}}{13}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-4008}{}{\numberline {1}{\ignorespaces \footnotesize  Miembros de los 6 equipos finalistas del IV Concurso de Modelizaci\'on Matem\'atica del IMI (CMM-IMI 2021), en el acto de entrega de premios celebrado el 16 de noviembre de 2021. Fotograf\IeC {\protect \'\i }a: Alfredo Matilla\relax }}}{16}\relax 
+\doTocEntry\tocsubsection{1.2}{\csname a:TocLink\endcsname{4}{x4-50001.2}{QQ2-4-7}{El IMI}}{17}\relax 
+\doTocEntry\tocsubsection{1.3}{\csname a:TocLink\endcsname{4}{x4-60001.3}{QQ2-4-8}{Las cuatro ediciones celebradas hasta ahora}}{17}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-6002}{}{\numberline {2}{\ignorespaces \footnotesize  Integrantes de los equipos premiados en el CMM-IMI 2018. Primer premio (arriba): V\IeC {\protect \'\i }ctor Carrillo Redondo, Alejandro Hern\'andez Cerezo y Ruizhe Yu Xia. Segundo premio (derecha): Jaime Sevilla Molina. Tercer premio (izquierda): \'Alvaro Mart\IeC {\protect \'\i }n Jim\'enez, V\IeC {\protect \'\i }ctor Olmos Prieto, Javier Sendra Arranz\relax }}}{20}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-6004}{}{\numberline {3}{\ignorespaces \footnotesize  Integrantes de los equipos premiados en el CMM-IMI 2019.\relax }}}{23}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-6006}{}{\numberline {4}{\ignorespaces \footnotesize  Integrantes de los equipos premiados en el CMM-IMI 2020.\relax }}}{26}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-6008}{}{\numberline {5}{\ignorespaces \footnotesize  Integrantes de los equipos premiados en el CMM-IMI 2021.\relax }}}{29}\relax 
+\doTocEntry\tocsubsection{1.4}{\csname a:TocLink\endcsname{4}{x4-70001.4}{QQ2-4-9}{Las pr\'oximas ediciones}}{30}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{5}{x5-80002}{QQ2-5-10}{XXVII CEDYA / XVII CMA}}{32}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{5}{x5-90002}{QQ2-5-11}{Comit\'e Cient\IeC {\'\i }fico:}}{32}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{5}{x5-100002}{QQ2-5-12}{Conferenciantes plenarios que ya han confirmado su participaci\'on:}}{33}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{5}{x5-110002}{QQ2-5-13}{Comit\'e Organizador, formado por miembros del IUMA:}}{34}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{6}{x6-120003}{QQ2-6-14}{Noticias}}{35}\relax 
+\doTocEntry\tocsubsection{3.1}{\csname a:TocLink\endcsname{6}{x6-130003.1}{QQ2-6-15}{Luis Vega, \href  {https://www.ehu.eus/es/-/luis-vega-premio-nacional-de-investigacion-2021}{Premio Nacional de Investigaci\'on 2021}}}{35}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-13002}{}{\numberline {6}{\ignorespaces Prof.\relax \unhbox \voidb@x \special {t4ht@+&{35}x00A0{59}}xLuis Vega Gonz\'alez. Foto: BCAM\relax }}}{37}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{6}{x6-140003.1}{QQ2-6-16}{Extenso recorrido}}{38}\relax 
+\doTocEntry\tocsubsection{3.2}{\csname a:TocLink\endcsname{6}{x6-150003.2}{QQ2-6-17}{Apertura del Museo de Matem\'aticas en el Planetario de Arag\'on}}{40}\relax 
+\doTocEntry\tocsubsection{3.3}{\csname a:TocLink\endcsname{6}{x6-160003.3}{QQ2-6-18}{Acto de presentaci\'on del \textit  {Estudio de impacto socio-econ\'omico de las Matem\'aticas en el Parlamento de Andaluc\IeC {\'\i }a}}}{40}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-16003}{}{\numberline {7}{\ignorespaces Mesa presidencial.\relax }}}{41}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-16005}{}{\numberline {8}{\ignorespaces M\IeC {\protect \textordfeminine } Romero Paniagua.\relax }}}{41}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-16007}{}{\numberline {9}{\ignorespaces Tom\'as Chac\'on Rebollo (derecha) durante su intervenci\'on. A la izquierda de la imagen, Marta Bosquet Aznar y, en el centro, Miguel \'Angel Castro Arroyo.\relax }}}{44}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-16009}{}{\numberline {10}{\ignorespaces De izquierda a derecha: P. Aranda Ram\IeC {\protect \'\i }rez, M. \'Angel Castro Arroyo y R. Velasco P\'erez.\relax }}}{47}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-16011}{}{\numberline {11}{\ignorespaces Joaqu\IeC {\protect \'\i }n P\'erez Mu\~noz y Justo Puerto Albandoz.\relax }}}{48}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-16013}{}{\numberline {12}{\ignorespaces De izquierda a derecha: Manuel Quero Garc\IeC {\protect \'\i }a, Emilio Carrizosa Priego, David P\'aez Rodr\IeC {\protect \'\i }guez y Clara Isabel Grima Ruiz.\relax }}}{50}\relax 
+\doTocEntry\tocsubsection{3.4}{\csname a:TocLink\endcsname{6}{x6-170003.4}{QQ2-6-19}{Asociaci\'on entre el Instituto de Matem\'aticas de la Universidad de Granada y la Estaci\'on Internacional de Investigaci\'on para la Innovaci\'on y el Descubrimiento Matem\'atico en Banff}}{51}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{7}{x7-180004}{QQ2-7-20}{In memoriam Profesor Roland Glowinski}}{54}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{7}{x7-18002}{}{\numberline {13}{\ignorespaces Prof.\relax \unhbox \voidb@x \special {t4ht@+&{35}x00A0{59}}xRoland Glowinski (foto de la web de la Universidad de Houston).\relax }}}{56}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{7}{x7-18004}{}{\numberline {14}{\ignorespaces Imagen del Prof.\relax \unhbox \voidb@x \special {t4ht@+&{35}x00A0{59}}xRoland Glowinski junto a su esposa \'Angela tomada el 16 de junio de 2011 en el parador de Toledo (foto de FOG).\relax }}}{60}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{8}{x8-190005}{QQ2-8-21}{Resumen de tesis}}{63}\relax 
+\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{9}{x9-200006}{QQ2-9-22}{Anuncios}}{66}\relax 
+\doTocEntry\tocsubsection{6.1}{\csname a:TocLink\endcsname{9}{x9-210006.1}{QQ2-9-23}{Convocatoria del XXV Premio SEMA \relax \special {t4ht=&#x00AB;}Antonio Valle\relax \special {t4ht=&#x00BB;} al Joven Investigador (2022)}}{66}\relax 
+\doTocEntry\tocsubsubsection{6.1.1}{\csname a:TocLink\endcsname{9}{x9-220006.1.1}{QQ2-9-24}{Pre\'ambulo}}{66}\relax 
+\doTocEntry\tocsubsubsection{6.1.2}{\csname a:TocLink\endcsname{9}{x9-230006.1.2}{QQ2-9-25}{Bases Generales}}{66}\relax 
+\doTocEntry\tocsubsubsection{6.1.3}{\csname a:TocLink\endcsname{9}{x9-240006.1.3}{QQ2-9-26}{Bases particulares de la convocatoria 2022}}{68}\relax 
+\doTocEntry\tocsubsection{6.2}{\csname a:TocLink\endcsname{9}{x9-250006.2}{QQ2-9-27}{Premios de Investigaci\'on Matem\'atica Vicent Caselles. Real Sociedad Matem\'atica Espa\~nola - Fundaci\'on BBVA. Convocatoria 2022}}{69}\relax 
+\doTocEntry\tocsubsection{6.3}{\csname a:TocLink\endcsname{9}{x9-260006.3}{QQ2-9-28}{\textit  {International Doctoral Summer School on Modeling Nature} (MNat) BIOMAT 2022}}{71}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-270006.3}{QQ2-9-29}{Minicursos}}{71}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-280006.3}{QQ2-9-30}{Conferencias extendidas}}{72}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-290006.3}{QQ2-9-31}{Con la colaboraci\'on de:}}{72}\relax 
+\doTocEntry\tocsubsection{6.4}{\csname a:TocLink\endcsname{9}{x9-300006.4}{QQ2-9-32}{Primer anuncio: ALAMA2022-ALN2gg, junio de 2022}}{73}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-310006.4}{QQ2-9-33}{Conferenciantes plenarios}}{73}\relax 
+\doTocEntry\tocsubsection{6.5}{\csname a:TocLink\endcsname{9}{x9-320006.5}{QQ2-9-34}{HYP2022, XVIII International Conference on Hyperbolic Problems: Theory, Numerics and Applications}}{74}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-330006.5}{QQ2-9-35}{Conferenciantes destacados}}{74}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-340006.5}{QQ2-9-36}{Conferenciantes plenarios}}{75}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-350006.5}{QQ2-9-37}{Conferenciantes invitados}}{76}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-360006.5}{QQ2-9-38}{Comit\'e organizador}}{76}\relax 
+\doTocEntry\tocsubsection{6.6}{\csname a:TocLink\endcsname{9}{x9-370006.6}{QQ2-9-39}{Actividades del Instituto de Matem\'aticas de la Universidad de Sevilla, IMUS}}{79}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-380006.6}{QQ2-9-40}{Entradas en el blog}}{79}\relax 
+\doTocEntry\tocsubsection{6.7}{\csname a:TocLink\endcsname{9}{x9-390006.7}{QQ2-9-41}{Basque Center for Applied Mathematics}}{81}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-400006.7}{QQ2-9-42}{\href  {https://fundacionlacaixa.org/en/inphinit-doctoral-fellowships-call}{BCAM - Doctorate INPhINIT program by La Caixa}}}{81}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-410006.7}{QQ2-9-43}{Internships open positions: deadline March 1, 2022}}{81}\relax 
+\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{10}{x10-420007}{QQ2-10-44}{SEMA \textit  {Journal}}}{83}\relax 
+\doTocEntry\tocsection{8}{\csname a:TocLink\endcsname{11}{x11-430008}{QQ2-11-45}{Socios institucionales}}{87}\relax 

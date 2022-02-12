@@ -1,0 +1,34 @@
+\babel@toc {french}{}
+\babel@toc {spanish}{}
+\contentsline {section}{Editorial}{4}{section*.2}%
+\contentsline {section}{Palabras del presidente}{8}{section*.3}%
+\contentsline {section}{\numberline {1}El Concurso de Modelizaci\'on Matem\'atica del IMI}{10}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Datos generales del concurso}{10}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}El IMI}{11}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Las cuatro ediciones celebradas hasta ahora}{12}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Las pr\'oximas ediciones}{15}{subsection.1.4}%
+\contentsline {section}{\numberline {2}XXVII CEDYA / XVII CMA}{17}{section.2}%
+\contentsline {section}{\numberline {3}Noticias}{19}{section.3}%
+\babel@toc {english}{}
+\contentsline {subsection}{\numberline {3.1}Luis Vega, \href {https://www.ehu.eus/es/-/luis-vega-premio-nacional-de-investigacion-2021}{Premio Nacional de Investigaci\'on 2021}}{19}{subsection.3.1}%
+\babel@toc {spanish}{}
+\contentsline {subsection}{\numberline {3.2}Apertura del Museo de Matem\'aticas en el Planetario de Arag\'on}{21}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Acto de presentaci\'on del \textit {Estudio de impacto socio-econ\'omico de las Matem\'aticas en el Parlamento de Andaluc\IeC {\'\i }a}}{22}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Asociaci\'on entre el Instituto de Matem\'aticas de la Universidad de Granada y la Estaci\'on Internacional de Investigaci\'on para la Innovaci\'on y el Descubrimiento Matem\'atico en Banff}{25}{subsection.3.4}%
+\contentsline {section}{\numberline {4}In memoriam Profesor Roland Glowinski}{26}{section.4}%
+\contentsline {section}{\numberline {5}Resumen de tesis}{28}{section.5}%
+\contentsline {section}{\numberline {6}Anuncios}{30}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Convocatoria del XXV Premio SEMA \guillemotleft Antonio Valle\guillemotright \ al Joven Investigador (2022)}{30}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Pre\'ambulo}{30}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Bases Generales}{30}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Bases particulares de la convocatoria 2022}{31}{subsubsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.2}Premios de Investigaci\'on Matem\'atica Vicent Caselles. Real Sociedad Matem\'atica Espa\~nola - Fundaci\'on BBVA. Convocatoria 2022}{32}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}\textit {International Doctoral Summer School on Modeling Nature} (MNat) BIOMAT 2022}{33}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Primer anuncio: ALAMA2022-ALN2gg, junio de 2022}{34}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}HYP2022, XVIII International Conference on Hyperbolic Problems: Theory, Numerics and Applications}{35}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Actividades del Instituto de Matem\'aticas de la Universidad de Sevilla, IMUS}{37}{subsection.6.6}%
+\babel@toc {english}{}
+\contentsline {subsection}{\numberline {6.7}Basque Center for Applied Mathematics}{38}{subsection.6.7}%
+\contentsline {section}{\numberline {7}SEMA \textit {Journal}}{39}{section.7}%
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {8}Socios institucionales}{40}{section.8}%
