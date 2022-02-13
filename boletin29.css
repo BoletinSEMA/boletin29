@@ -175,6 +175,7 @@ a {
 .ecss-0900{ font-family: sans-serif;}
 .ecss-0900{ font-family: sans-serif;}
 .small-caps{font-variant: small-caps; }
+.letra-figura{font-size:75%; }
 p{margin-top:0;margin-bottom:0}
 p.indent{text-indent:0;}
 p + p{margin-top:1em;}
